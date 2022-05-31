@@ -1,0 +1,25 @@
+{
+  "name": "speckle-object-parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didimitrie/speckle-object-parsing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didimitrie/speckle-object-parsing/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/didimitrie/speckle-object-parsing#readme",
+  "dependencies": {
+    "@speckle/objectloader": "^2.5.5",
+    "undici": "^5.3.0"
+  }
+}
